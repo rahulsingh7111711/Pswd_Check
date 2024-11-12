@@ -7,16 +7,17 @@ This repository contains a Python project for checking the strength of passwords
   Interactive UI: A simple interactive user interface using ipywidgets that allows users to input passwords and generate new ones with a button click.
 
 ## How it Works
-### 1.Password Strength Checker:
+### 1. Password Strength Checker:
 
-It checks for the presence of:
-Lowercase letters
-Uppercase letters
-Digits
-Whitespace characters
-Special characters
-Based on the presence of these elements, the password is scored on a scale from 1 to 5 and categorized with remarks such as "Very weak password" to "Very strong password".
-Password Generator:
+      It checks for the presence of:
+        Lowercase letters
+        Uppercase letters
+        Digits
+        Whitespace characters
+        Special characters
+      Based on the presence of these elements, the password is scored on a scale from 1 to 5 and categorized with remarks such as "Very weak password" to "Very strong password".
+
+### 2. Password Generator:
 
 Generates a random 12-character password with a mix of uppercase and lowercase letters, digits, and special characters.
 Installation
