@@ -9,17 +9,17 @@ This repository contains a Python project for checking the strength of passwords
 ## How it Works
 ### 1. Password Strength Checker:
 
-      It checks for the presence of:
-        Lowercase letters
-        Uppercase letters
-        Digits
-        Whitespace characters
-        Special characters
-      Based on the presence of these elements, the password is scored on a scale from 1 to 5 and categorized with remarks such as "Very weak password" to "Very strong password".
+  It checks for the presence of:
+     Lowercase letters
+     Uppercase letters
+     Digits
+     Whitespace characters
+     Special characters
+   Based on the presence of these elements, the password is scored on a scale from 1 to 5 and categorized with remarks such as "Very weak password" to "Very strong password".
 
 ### 2. Password Generator:
 
-Generates a random 12-character password with a mix of uppercase and lowercase letters, digits, and special characters.
+  Generates a random 12-character password with a mix of uppercase and lowercase letters, digits, and special characters.
 Installation
 To run this project, you need to have Python installed. You also need to install the necessary Python libraries:
 
